@@ -7,10 +7,10 @@
     <title>Calculadora</title>
 </head>
 <body>  
-    <center>
+    
     <div class="quadrado"></div>
     <div class="texto">
-    <h1>Calculadora em PHP</h1>
+    <h1>Calculadora</h1>
 
     <form action="somar.php" method="POST">
 
@@ -35,9 +35,9 @@
 
 
         <br><br>
-
+        
         <button type="submit">Calcular</button>
-        </center>
+        
         </div>
     </form>
 

@@ -62,5 +62,3 @@ echo "<p>$numero1 $simbolo $numero2 = $resultado</p>";
 
 
 
-
-

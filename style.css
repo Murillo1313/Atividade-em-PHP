@@ -1,0 +1,42 @@
+body{
+
+    background-color: aqua;
+}
+
+.texto{
+    margin-left: 41%;
+  z-index: 1;
+    position: absolute;
+    top: 5%;
+    color: white;
+    font-size: 20px;
+
+}
+
+.quadrado{
+    height: 370px;
+    width: 370px;
+    background-color: gray;
+    position: relative;
+    
+    left: 40%;
+    z-index: 0;
+    border: none;
+    border-radius: 20px
+}
+button {
+    
+    background-color: green;
+    color: white;
+
+    width: 100px;
+    height: 30px;
+
+    border: none;
+    border-radius: 100px;
+
+    font-size: 15px;
+    font-weight: bold;
+
+    cursor: pointer;
+}
